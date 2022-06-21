@@ -1,9 +1,8 @@
 {
- "background_color": "#333333",
  "name": "Lujosa Residencia - Carmelitas",
- "description": "3 Habitaciones, vestidores, amplio living-comedor, hermoso quincho con parrilla de dos plazas, garage para 2 vehículos grandes y más..",
- "display": "fullscreen",
  "start_url": "index.html",
+ "background_color": "#333333",
+ "theme_color": "#333333",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#333333"
+ "description": "3 Habitaciones, vestidores, amplio living-comedor, hermoso quincho con parrilla de dos plazas, garage para 2 vehículos grandes y más..",
+ "display": "fullscreen"
 }
